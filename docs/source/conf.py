@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = '单细胞教程jz'
+copyright = '2024, jz'
+author = '生信百晓生'
 
 release = '0.1'
 version = '0.1.0'
